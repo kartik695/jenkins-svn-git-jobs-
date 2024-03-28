@@ -1,5 +1,6 @@
 # use LOCAL_PATH as local working work copy of your svn
-# use REPO_PATH as repository path of your svn in my case i have set up in svn in docker
+# use REPO_PATH as link of your svn repo path of your svn in my case i have set up in svn in docker
+# exmaple -> http://172.17.0.3:18080/svn/demo link of svn set up through docker
 
 
 get_latest_revision() { 
