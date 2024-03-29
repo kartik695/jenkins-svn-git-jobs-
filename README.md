@@ -1,4 +1,4 @@
-# jenkins-svn-git-jobs-
+# git-job.sh
 
 Basic Jenkins Job with SVN using Freestyle Project
 
